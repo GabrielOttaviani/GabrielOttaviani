@@ -1,6 +1,6 @@
 <h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Gabriel+Ottaviani" alt="Gabriel Ottaviani" /> </h1>
 
-<h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Welcome+%F0%9F%91%8B;Seja+bem-vindo+%F0%9F%91%8B;%E3%82%88%E3%81%86%E3%81%93%E3%81%9D+%F0%9F%91%8B;Bienvenido+%F0%9F%91%8B;Bienvenue+%F0%9F%91%8B;%E6%AC%A2%E8%BF%8E+%F0%9F%91%8B;%D9%85%D8%B1%D8%AD%D8%A8%D8%A7+%F0%9F%91%8B" alt="Typing SVG" /> </h1> <p align="center"> <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Visitantes&color=2E9EF7&style=flat" alt="visitor badge" /> </p>
+<h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Welcome+%F0%9F%91%8B;Seja+bem-vindo+%F0%9F%91%8B;%E3%82%88%E3%81%86%E3%81%93%E3%81%9D+%F0%9F%91%8B;Bienvenido+%F0%9F%91%8B;Bienvenue+%F0%9F%91%8B;%E6%AC%A2%E8%BF%8E+%F0%9F%91%8B;%D9%85%D8%B1%D8%AD%D8%A8%D8%A7+%F0%9F%91%8B" alt="Typing SVG" /> </h1> <p align="center"> </p>
 👨‍💻 Sobre mim
 
 💼 Trabalho na Novibet como Cargo CRM Operations Associate
